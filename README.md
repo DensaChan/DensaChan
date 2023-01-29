@@ -8,7 +8,6 @@ Currently, a student majoring in software development at SAIT.
 
 * 🌍  I'm based in Calgary, Alberta
 * ✉️  You can contact me at [Densachan@gmail.com](mailto:Densachan@gmail.com)
-* 🧠  I'm learning frontend frameworks by refining my skills in HTML, CSS and JS. Eventually working towards React
 
 ### Skills
 
